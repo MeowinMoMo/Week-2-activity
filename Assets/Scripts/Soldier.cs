@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Soldier : Class
 {
-    string name = Assassin;
+    string name = Soldier;
     float attack = 9;
     float mana = 3;
     float health = 7;
